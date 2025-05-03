@@ -1,10 +1,10 @@
-.page {
+:root {
   --main-font: 'IBM Plex mono'; 
   --bg-color: rgba(0, 0, 40, 1);
   --text-color: rgba(241, 178, 206, 1);
   --heading-color: rgba(0, 0, 40, 1);
   --title-color:  rgba(219, 0, 255, 1);
-  --font-size__text: 18px; 
+  --font-size__text: 18px;
   --font-weight: 400;
   --text-shadow-color: rgba(255, 0, 112, 1);
   --heading-background-color: rgba(255, 0, 112, 1);
@@ -13,4 +13,5 @@
   --pseudo-element-color: rgba(255, 0, 112, 1);
   --section-title-color: rgba(255, 0, 112, 1);
   --element-rec-color: rgba(255, 0, 112, 1);
+  background-image: url('../images/cover-image-dark.png')
 }
