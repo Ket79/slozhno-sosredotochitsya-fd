@@ -11,7 +11,7 @@
   --element-rec-color: transparent;
   --section-title-color: rgba(53, 52, 48, 1);
   --focus: rgba(53, 52, 48, 1);
-   background-image: url('../images/cover-image-light.png');
+  background-image: url('../images/cover-image-light.png');
 }
 
 @media (prefers-color-scheme: light) {
@@ -24,6 +24,7 @@
   --element-rec-color: transparent;
   --section-title-color: rgba(53, 52, 48, 1);
   --focus: rgba(53, 52, 48, 1);
-   background-image: url('../images/cover-image-light.png');
+  background-image: url('../images/cover-image-light.png');
 }
 }
+
